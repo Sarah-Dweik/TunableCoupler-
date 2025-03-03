@@ -7,7 +7,7 @@ This repository contains a Jupyter notebook and a research paper related to the 
 ## Files Included
 - `Tunable Module Version4.ipynb`: A Jupyter notebook that contains simulations and analysis on quantum coupling.
 - `Implementation_of_the_Lumped_Oscillator_Model__LOM__on_a_Tunable_Coupler_for_Superconducting_Qubits_Using_Qiskit_Metal.pdf` Discussion report
-- '' Presntation 
+- 'Seminar, Qiskit metal LOM on a tunable coupler.pptx' Presentation 
 
   ## Requirements
 To run the Jupyter Notebook, you need the following:
