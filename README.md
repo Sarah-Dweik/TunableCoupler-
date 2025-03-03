@@ -12,4 +12,4 @@ This repository contains a Jupyter notebook and a research paper related to the 
   ## Requirements
 To run the Jupyter Notebook, you need the following:
 - Qiskit metal packages, [Instructions](https://qiskit-community.github.io/qiskit-metal/installation.html)
-- Ansys Electronics for simulation
+- Ansys Electronics license for simulation
